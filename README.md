@@ -3,9 +3,9 @@
 A interactive audio-visual experience developed using the Processing framework and the Minim sound library. This project visualizes real-time audio frequency data while allowing user control over playback, volume, gain, and delay through mouse interaction.
 
 Overview
-- 📊 Live Spectrum Visualizer: See the frequency spectrum of the song as moving visual waves.
-- 🎛️ Interactive Controls: Start, pause, and restart buttons.
-- 🎚️ Dynamic Audio Interaction:
+- Live Spectrum Visualizer: See the frequency spectrum of the song as moving visual waves.
+- Interactive Controls: Start, pause, and restart buttons.
+- Dynamic Audio Interaction:
 - Move your mouse horizontally to control volume.
 - Move your mouse vertically to adjust gain and apply a delay effect.
 
